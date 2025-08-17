@@ -3,7 +3,7 @@ import Card from './Card';
 
 const items = [
   {
-    img: `${import.meta.env.BASE_URL}pexels-daan-stevens-66128-939331.jpg`,
+    img: "/React1/pexels-daan-stevens-66128-939331.jpg",
     name: "Sama",
     price: 9000,
     title: "MacBook Air 13 – M1 Chip",
